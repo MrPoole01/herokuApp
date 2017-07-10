@@ -1,7 +1,7 @@
 var express = require('express')
 var server = express()
 var rick = require('./rick/rick.json')
-var port = process.evn.Port || 8080
+var port = process.env.PORT || 8080
 
 server.get('/', function (request, response) {
   response.send("Go to /rick to find out more about me")
