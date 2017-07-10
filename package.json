@@ -1,3 +1,7 @@
+"scripts": {
+    "start": "node your-script.js"
+}
+
 {
   "name": "herokuApp",
   "version": "1.0.0",
