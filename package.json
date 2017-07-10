@@ -19,5 +19,6 @@
   },
   "homepage": "https://github.com/MrPoole01/herokuApp#readme",
   "dependencies": {
+    "express": "^4.15.3"
   }
 }
